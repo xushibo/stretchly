@@ -54,11 +54,11 @@
   "settings": {
     "settings": "设置",
     "microbreaks": "短时间休息",
-    "secondsEveryBreak": "秒休息每隔",
+    "secondsEveryBreak": "秒休息,每隔",
     "minutes": "分钟",
     "dontLetMeSkipMicrobreaks": "禁止跳过短时间休息",
     "breaks": "长时间休息",
-    "minutesBreakAfter": "分钟休息每隔",
+    "minutesBreakAfter": "分钟休息,每隔",
     "microbreaks2": "短时间休息",
     "dontLetMeSkipBreaks": "禁止跳过长时间休息",
     "(every": "(每",
